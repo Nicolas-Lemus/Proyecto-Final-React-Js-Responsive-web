@@ -1,0 +1,22 @@
+.shoppingCart{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.qty{
+    font-size: 1rem;
+    text-align: center;
+}
+#total{
+    margin-top: .4rem;
+    font-size: 1.2rem;
+}
+.cart h3{
+    font-size: 1.3rem;
+}
+.cart img{
+    @media (min-width:992px) {
+        margin-top: 0;
+    }
+}
