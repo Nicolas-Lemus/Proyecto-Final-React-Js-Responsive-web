@@ -32,8 +32,8 @@ const Footer = () => {
                         <h3>Consolas</h3>
                         <li>Nintendo Switch</li>
                         <li>Xbox Series S</li>
-                        <li>Sony PlayStation 5 </li>
-                        <li>Sony Ps4 Slim</li>
+                        <li>Sony PlayStation 5</li>
+                        <li>Sony PlayStation 4</li>
                     </ul>
                 </div>
             </div>
